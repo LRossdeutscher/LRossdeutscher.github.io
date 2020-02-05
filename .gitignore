@@ -1,8 +1,3 @@
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-
 # Ignore docs files
 _gh_pages
 _site
